@@ -1,0 +1,50 @@
+name: rey.okeefe
+description: Inverse
+version: 0.0.1-SNAPSHOT
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: reyokeefe
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-07-04 21:13:03'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-07-04 21:13:03'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-07-04T21:13:03.01056Z'
+  name: plibMaven
+  version: 8.12.0-SNAPSHOT
+  id: '352557958'
+  createdAt: '2025-07-04T21:13:03.01056Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
